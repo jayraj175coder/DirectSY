@@ -2,6 +2,7 @@
   "name": "forum",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://jayraj175coder.github.io/DirectSY",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,8 +12,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
- 
-  
   "dependencies": {
     "bootstrap": "^5.3.3",
     "firebase": "^10.12.3",
